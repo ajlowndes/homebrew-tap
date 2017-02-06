@@ -1,9 +1,9 @@
 class Pitxi < Formula
   desc "Downloads transaction data from Paypal SFTP and formats it for Xero"
   homepage "https://github.com/ajlowndes/PiTXi"
-  url "https://github.com/ajlowndes/PiTXi/archive/0.9.1.tar.gz"
-  version "0.9.1"
-  sha256 "9fb77f3a20ff45620f230bf54cfa4b0c3980d55f21d4aaee6e1606e629054951"
+  url "https://github.com/ajlowndes/PiTXi/archive/0.9.2.tar.gz"
+  version "0.9.2"
+  sha256 "993b9e54a2270143ba7f97d235cd639af25c26a076e78f5db802f7bbe6f90fd4"
 
 
   depends_on "csv-fix"
